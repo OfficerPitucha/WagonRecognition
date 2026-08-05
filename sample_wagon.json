@@ -1,0 +1,15 @@
+{
+    "status": "success",
+    "message": "UIC validated successfully.",
+    "results": {
+        "uic": {
+            "detected_text": "21 81 247 1217-3",
+            "confidence": 0.95,
+            "is_valid": true
+        },
+        "wheels_count": 4,
+        "dangerous_goods": [
+            "Flammable Liquid"
+        ]
+    }
+}

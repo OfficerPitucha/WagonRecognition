@@ -1,0 +1,14 @@
+venv/
+.venv
+__pycache__/
+src/detection/videos/
+src/detection/test_vidoes/
+*.mp4
+*.MP4
+*.mov
+*.MOV
+.idea
+src/detection/prop/outputs/wagons
+outputs
+train-pipeline
+models/groundingdino_swint_ogc.pth
