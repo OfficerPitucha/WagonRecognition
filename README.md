@@ -1,3 +1,5 @@
+> This was the Design Project for the final year of my CS Bachelor's, built in a group of 6 people and graded 9.0/10.
+
 # Train Wagon Analysis Pipeline
 
 Automatically detects and analyses individual wagons in a train video feed. For each wagon it reports:
